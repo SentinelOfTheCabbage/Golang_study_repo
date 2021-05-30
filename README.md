@@ -1,3 +1,3 @@
 Empty README.md
 
-There i will push my study process and (probably) aby useful books, conferences, links and etc
+There i will push my Golang studying process and (probably) any useful books, podcasts, links to golang conf and etc
